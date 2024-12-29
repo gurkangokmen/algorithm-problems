@@ -2,7 +2,7 @@ package ValidParentheses;
 
 // https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=string
 
-import java.util.Stack;
+import java.util.Stack; 
 
 class Solution {
     private char parentheses10 = '(';
