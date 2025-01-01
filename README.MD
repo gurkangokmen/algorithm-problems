@@ -1,5 +1,11 @@
 # algorithms
 
+# 0. Program
+
+Every 10 question is divided into
+
+5 easy - 3 medium - 2 hard
+
 # 1. Fundamentals
 
 ## 1.1  Programming Model
