@@ -1,3 +1,5 @@
+package EvenOrOdd;
+
 import java.util.Scanner;
 
 /*
