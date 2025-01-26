@@ -1,17 +1,9 @@
-import java.util.List;
-import java.nio.channels.Pipe.SourceChannel;
+package Definex;
+
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.HashMap;
 import java.util.HashSet;
 
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println(MathChallenge(36,54));
-    }
-
+public class MathChallenge {
     public static int MathChallenge(int num1, int num2) {
         // code goes here
         HashSet<Integer> num1Remainders = new HashSet<>();
@@ -39,5 +31,4 @@ public class Main {
 
         return bigCommon;
       }
-
 }
