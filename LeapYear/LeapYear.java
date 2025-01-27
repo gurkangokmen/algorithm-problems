@@ -8,17 +8,14 @@ import java.util.Scanner;
  * This program is to check the given number is leap year or not.
  *
  * Leap Year Conditions
- * 1. Year should be divisible by 4
- * 2. If it is divisible by 100 then should be divisible by 400
- * 3. If both conditions are not satisfied, then given input is not leap year.
+ * 1. A year is a leap year if it is divisible by 4.
+ * 2. However, if the year is divisible by 100, it is not a leap year unless:
+ * 3. The year is also divisible by 400.
  * 
  * Example
- * 2000	-	LEAP YEAR
- * 2100	-	NOT A LEAP YEAR
- * 2020	-	LEAP YEAR
- * 2019	-	NOT A LEAP YEAR
- * 1900	-	NOT A LEAP YEAR
- * 1996	-	LEAP YEAR
+ * 2000 is a leap year because it is divisible by 400.
+ * 1900 is not a leap year because it is divisible by 100 but not by 400.
+ * 2024 is a leap year because it is divisible by 4 but not by 100.
  */
 public class LeapYear {
 	public static void main(String[] args) {
