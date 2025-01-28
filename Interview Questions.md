@@ -28,5 +28,5 @@
 11. Write a Java Program to print all the ***Factors of the Given number***. [[Solution]](FactorsOfANumber/FactorsOfANumber.java)
 12. Write a Java Program to find ***sum of the digits of a given number***. [[Solution]](SumOfDigits/SumOfDigits.java)
 13. Write a Java Program to ***find the smallest of 3 numbers*** (a,b,c) without using < or > symbol? [[Solution]](FindTheSmallest/FindTheSmallest.java)
-14. How to add two numbers without using the arithmetic operators in Java? [[Solution]](InterviewPrograms/src/com/java/numbers/AddWithoutPlus.java)
+14. How to add two numbers without using the arithmetic operators in Java? [[Solution]](AddWithoutPlus/AddWithoutPlus.java)
 15. Write a java program to ***Reverse a given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
