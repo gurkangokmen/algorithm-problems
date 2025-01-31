@@ -33,7 +33,7 @@
 
 # Numbers
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](GCD/GCD.java)
-2. Write a java program to ***LCM of TWO given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/LCM.java)
+2. Write a java program to ***LCM of TWO given number***. [[Solution]](LCM/LCM.java)
 3. Write a java program to ***LCM of TWO given number*** using Prime Factors method. [[Solution]](InterviewPrograms/src/com/java/numbers/LCMUsingFactors.java)
 4. Check whether the ***Given Number*** is a ***Palindrome or NOT***. [[Solution]](InterviewPrograms/src/com/java/numbers/PalindromeCheck.java)
 5. Write a Java Program to print all the **Prime Factors** of the Given Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PrimeFactors.java)
