@@ -34,8 +34,8 @@
 # Numbers
 1. Write a Java Program to find GCD of two given numbers. [[Solution]](GCD/GCD.java)
 2. Write a java program to ***LCM of TWO given number***. [[Solution]](LCM/LCM.java)
-3. Write a java program to ***LCM of TWO given number*** using Prime Factors method. [[Solution]](InterviewPrograms/src/com/java/numbers/LCMUsingFactors.java)
-4. Check whether the ***Given Number*** is a ***Palindrome or NOT***. [[Solution]](InterviewPrograms/src/com/java/numbers/PalindromeCheck.java)
+3. Write a java program to ***LCM of TWO given number*** using Prime Factors method. [[Solution]](LCM/LCM.java)
+4. Check whether the ***Given Number or String*** is a ***Palindrome or NOT***. [[Solution]](Palindrome/Palindrome.java)
 5. Write a Java Program to print all the **Prime Factors** of the Given Number. [[Solution]](InterviewPrograms/src/com/java/numbers/PrimeFactors.java)
 6. Write a Java Program to check whether the Given Number is ***Prime Number or NOT***. [[Solution]](InterviewPrograms/src/com/java/numbers/PrimeNumber.java)
 7. Write a Java Program to print ***Prime Numbers from 1 to N***. [[Solution]](InterviewPrograms/src/com/java/numbers/PrimeNumberList.java)
