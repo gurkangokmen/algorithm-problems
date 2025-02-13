@@ -1,28 +1,27 @@
-import java.util.Arrays;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        findLargestSum(new int[]{-2,1,-3,4,-1,2,1,-5,4});
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter any positive integer :: ");
+        int num = Integer.parseInt(scanner.nextLine().trim());
+
+        System.out.println("The Prime Factors are :");
+        printPrimeFactors(num);
+
+        scanner.close();
     }
 
-    public static void findLargestSum(int[] arr){
-        int largestSum= arr[0];
-        int startIndex = 0;
-        int endIndex = 0;
+    private static void printPrimeFactors(int num){
+        int limit = (int) Math.sqrt(num);
 
-        for (int i = 1; i < arr.length; i++) {
-            if(arr[i] + arr[i-1]>arr[i]){
-                startIndex = i-1;
-                endIndex = i;
-
-                largestSum = largestSum + arr[i];
-            }
-
-            else if (arr[i] + arr[i-1]<arr[i]) {
-                startIndex = i;
+        for(int i=2;i<=limit;i++){
+            while(num % i == 0){
+                System.out.print(i+", ");
+                num = num/i;
             }
         }
-
-        System.out.println(startIndex + " " + endIndex);
+        if(num > 2)
+            System.out.print(num);
     }
 }
