@@ -56,7 +56,7 @@
 22. How to check if two rectangles overlap with each other?
 
 # Array Based Programs
-1. Calculate the average of given array. [[Solution]](InterviewPrograms/src/com/java/array/Average.java)
+1. Calculate the average of given array. [[Solution]](Average/Average.java)
 2. Find the second largest number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMaximum.java)
 3. Find the second minimum number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMinimum.java)
 4. Find the missing Number in the given array of 1 to N. [[Solution]](InterviewPrograms/src/com/java/array/FindMissingNo.java)
