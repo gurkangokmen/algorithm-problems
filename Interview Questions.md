@@ -58,7 +58,7 @@
 # Array Based Programs
 1. Calculate the average of given array. [[Solution]](Average/Average.java)
 2. Find the second largest number in the given array. [[Solution]](SecondMaximum/SecondMaximum.java)
-3. Find the second minimum number in the given array. [[Solution]](InterviewPrograms/src/com/java/array/SecondMinimum.java)
+3. Find the second minimum number in the given array. [[Solution]](SecondMinimum/SecondMinimum.java)
 4. Find the missing Number in the given array of 1 to N. [[Solution]](InterviewPrograms/src/com/java/array/FindMissingNo.java)
 5. Write a Java Program to find the ***Intersection of two arrays.*** [[Solution]](InterviewPrograms/src/com/java/array/IntersectionOfTwoArrays.java)
 6. Write a Java Program to find the ***Intersection of Two Sorted*** arrays. [[Solution]](InterviewPrograms/src/com/java/array/IntersectionOfSortedArrays.java)
