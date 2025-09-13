@@ -123,11 +123,11 @@
 10. Find sum of each row and each column of the Matrix. [[Solution]](InterviewPrograms/src/com/java/matrix/RowSumColumnSum.java)
 
 # Print the Series
-1. Write the Java Program to print the following series ***EVEN number Series*** [[Solution]](InterviewPrograms/src/com/java/series/EvenNumberSeries.java)
+1. Write the Java Program to print the following series ***EVEN number Series*** [[Solution]](Series/EvenNumberSeries.java)
 ```
 2 4 6 8 10 12 14 16 .....
 ```
-2. Write the Java Program to print the following series ***ODD number Series*** [[Solution]](InterviewPrograms/src/com/java/series/OddNumberSeries.java)
+2. Write the Java Program to print the following series ***ODD number Series*** [[Solution]](Series/OddNumberSeries.java)
 ```
 1 3 5 7 9 11 13 ....
 ```
